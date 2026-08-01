@@ -11,22 +11,19 @@
   ./assets/tennis.jpg  (see notes near each section below).
 -->
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Samuel 👋
 
-[One line about you — e.g. "Backend developer who likes turning messy data into clean APIs."]
-[Optional second line — what you're currently doing or looking for.]
-
-📍 [City, Country] · 💼 [Role / Student / Open to work] · ✉️ [email or LinkedIn link]
+My work has been centered around causality, data science and machine learning.
 
 ---
 
 ## About Me
 
-- 🔭 I'm currently working on **[project / role / studies]**
-- 🌱 I'm learning **[technology or topic]**
-- 🎯 My focus is **[area you care about — e.g. web dev, data, embedded, ML]**
-- 💬 Ask me about **[something you enjoy talking about]**
-- ⚡ Fun fact: **[one memorable detail]**
+- 🔭 I'm currently doing data science for 🐼.
+- 🌱 I'm learning docker, threading and multiprocessing in Python.
+- 🎯 My focus areas are causality, Machine learning and data science.
+- 💬 Ask me about real-life applications of causality.
+- ⚡ Fun fact: My favorite animals are turtles.
 
 <!-- Keep this to 4–6 short lines. Recruiters skim. -->
 
@@ -35,13 +32,22 @@
 ## Tech & Tools
 
 **Languages**
-[Python] · [JavaScript / TypeScript] · [Java] · [SQL] · [C] · [add/remove as needed]
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  · SQL · R
 
-**Frameworks & Libraries**
-[React] · [Node.js] · [Django / Flask] · [pandas / NumPy] · [PyTorch] · [...]
+**Libraries**
+NumPy, Scikit-Learn, Pandas, Pytorch, Multiprocessing, Threading
 
 **Tools & Platforms**
-[Git] · [Docker] · [Linux] · [AWS / GCP / Azure] · [PostgreSQL] · [CI/CD] · [...]
+Git · Docker · CI/CD · Snowflake · dbt
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-025E8C?logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+
+**Libraries**
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![multiprocessing](https://img.shields.io/badge/multiprocessing-525252?logo=python&logoColor=white) ![threading](https://img.shields.io/badge/threading-525252?logo=python&logoColor=white)
+
+**Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-525252?logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694A?logo=dbt&logoColor=white)
 
 <!--
   Optional: replace the text lists above with badges for a more visual look.
