@@ -40,15 +40,23 @@ NumPy, Scikit-Learn, Pandas, Pytorch, Multiprocessing, Threading
 **Tools & Platforms**
 Git · Docker · CI/CD · Snowflake · dbt
 
+
 **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-025E8C?logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org) [![SQL](https://img.shields.io/badge/SQL-025E8C?logoColor=white)](https://en.wikipedia.org/wiki/SQL) [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://www.r-project.org)
 
 **Libraries**
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![multiprocessing](https://img.shields.io/badge/multiprocessing-525252?logo=python&logoColor=white) ![threading](https://img.shields.io/badge/threading-525252?logo=python&logoColor=white)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org) [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org) [![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org) [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org) [![multiprocessing](https://img.shields.io/badge/multiprocessing-525252?logo=python&logoColor=white)](https://docs.python.org/3/library/multiprocessing.html) [![threading](https://img.shields.io/badge/threading-525252?logo=python&logoColor=white)](https://docs.python.org/3/library/threading.html)
 
 **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-525252?logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694A?logo=dbt&logoColor=white)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com) [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)](https://github.com/features/actions) [![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)](https://www.snowflake.com) [![dbt](https://img.shields.io/badge/dbt-FF694A?logo=dbt&logoColor=white)](https://www.getdbt.com)
 
+Two of these aren't products, so there's no true "official" page:
+
+SQL is a language/standard, not a company — I pointed it at Wikipedia. If you use one dialect heavily you might prefer linking that instead (e.g. postgresql.org or the ISO/IEC 9075 standard page). Same with CI/CD, which is a concept rather than a tool; Wikipedia is the neutral choice, or you could point it at whatever CI system you actually use (GitHub Actions, GitLab CI, etc.).
+
+`multiprocessing` and `threading` link to their official Python standard-library docs, which is the closest thing they have to a home.
+
+One heads-up: these open in the same tab, since GitHub-flavored markdown strips `target="_blank"`, so a click navigates the visitor away from your profile. That's normal and
 <!--
   Optional: replace the text lists above with badges for a more visual look.
   Example (from https://shields.io — pick your own colors):
