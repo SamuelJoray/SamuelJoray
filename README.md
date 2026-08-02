@@ -13,7 +13,7 @@
 
 # Hi, I'm Samuel 👋
 
-My work centers around causality, data science and machine learning. I increasingly develop myself to other areas to complete my profile such as Docker and CI/CD. 
+My work centers around causality, data science and machine learning. I increasingly develop myself to other areas to complete my data science profile such as Docker and CI/CD. 
 
 ---
 
