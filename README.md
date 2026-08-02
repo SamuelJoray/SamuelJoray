@@ -13,17 +13,19 @@
 
 # Hi, I'm Samuel 👋
 
-My work centers around causality, data science and machine learning. I increasingly develop myself to other areas to complete my data science profile such as Docker and CI/CD. 
+I grew up in the canton of Neuchâtel in Switzerland, where I enjoyed playing tennis from a young age. I then moved to the German-speaking part of Switzerland, to Zürich, for my Bachelor's and Master's at ETH Zürich, where I discovered the world of mathematics and became proficient in German (and, of course, English)! After my Master's, I spent a year as a research assistant at SCAI Lab, then chose to move into industry, working for an NGO (WWF Switzerland) as a Marketing Data Analyst for a year (internship, fixed-term contract). I have always felt close to nature and wanted to take this opportunity to discover what people are doing to help the planet. I feel lucky to have had this once-in-a-lifetime experience.
+
+My work centers on causality, data science, and machine learning. I'm increasingly expanding into other areas to round out my data science profile, such as Docker and CI/CD. To see some of my projects, take a look below, and feel free to reach out!
 
 ---
 
 ## About Me
 
 - 🔭 I'm currently doing data science for WWF Switzerland 🐼.
-- 🌱 I'm learning docker, threading and multiprocessing in Python.
+- 🌱 I'm currently learning docker, threading and multiprocessing in Python, and LLMs.
 - 🎯 My focus areas are causality, Machine learning and data science.
 - 💬 Ask me about real-life applications of causality.
-- ⚡ Fun fact: My favorite animals are turtles.
+- ⚡ Fun fact: My favorite animal is turtles and I have two.
 
 <!-- Keep this to 4–6 short lines. Recruiters skim. -->
 
@@ -58,9 +60,10 @@ My work centers around causality, data science and machine learning. I increasin
 ## Projects
 
 ### Master's Thesis on Instrumental Variables in Causal Inference
-Instrumental variables (fuel price) is a method to correct the bias, and calculate the causal effect, when there is unobserved confounders (holidays, conferences) between a cause (the airline tickets price) and an effect (airline tickets demand).
 
-I reviewed the litterature and focused on the problem where the causal effect is nonlinear. The distinction between the Two-Stage-Least-Square and the Control Function Methods become apparent. The first one allows slightly looser assumptions, whille the latter one is more powerful under some stronger independence assumptions. Finally, I developped an algorithm for that I called Deep Control Function which combine a deep neural network and the control function method. Finally, I did a benchmark analysis comparing the state of the art methods, while challengin them on different simulated datasets with others assumptions. I achieved the best grade 6/6.
+Instrumental variables (fuel price) are a method to correct for unobserved confounders (holidays, conferences) and estimate the true causal effect between a cause (airline ticket prices) and an effect (airline ticket demand).
+
+I reviewed the literature and focused on the problem where the causal effect is nonlinear. Here, the distinction between the Two-Stage Least Squares and Control Function methods becomes apparent: the former allows slightly looser assumptions, while the latter is more powerful under some stronger independence assumptions, especially with a nonlinear causal effect. I then developed an algorithm I called Deep Control Function, which combines a deep neural network with the control function method. Finally, I ran a benchmark analysis comparing the state-of-the-art methods, challenging them on different simulated datasets with varying assumptions. I achieved the top grade, 6/6.
 
 For more details:
 🔗 **[View repository »](https://github.com/SamuelJoray/Master-Thesis)**
@@ -88,10 +91,8 @@ work, a hardware build, etc. A photo is perfect here since there's no repo to li
 
 ## Beyond Code
 
-A few things I do (or did) away from the keyboard:
-
 ### 🎤 Public Speaking
-Co-moderated a panel discussion on Highway-extension Referendum in Switzerland. We invited three Mobility Experts from ETH Zürich and had a enlighted neutral discussion on the topic. Check this ![LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7266761510994038784/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEIHSGwBShoZIq-LPKJ7YcSWSF0Nu3qc2lM)
+Co-moderated a panel discussion on the highway-expansion referendum in Switzerland. We invited three mobility experts from ETH Zürich for an enlightening, balanced discussion on the topic. Check this ![LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7266761510994038784/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEIHSGwBShoZIq-LPKJ7YcSWSF0Nu3qc2lM)
 
 <img src="./assets/photo_introduction.jpg" width="30%"> <img src="./assets/photo_discussion.jpeg" width="33%"> <img src="./assets/photo_with_panelists.jpeg" width="33%">
 
@@ -112,31 +113,21 @@ Co-moderated a panel discussion on Highway-extension Referendum in Switzerland. 
     The image shows, and clicking it opens the video.
 -->
 
-[Paste the GitHub-uploaded video link on its own line here, OR use the
-thumbnail-link from Option B above.]
 
 ### Windsurfing
-I learnt this summer how to windsurf -- still a beginner though.
+I got into it this summer — still a beginner, though.
 
 ### 🎾 Tennis
-Playing since I am four and still get a lot of pleasure practicing it.
+Playing since I was four and still get a lot of pleasure out of practicing it.
 
-![Playing tennis](./assets/tennis.jpg)
+<!--![Playing tennis](./assets/tennis.jpg)-->
 
 ### ⛷️ Skiing
-I love carving short turns since I bought slalom skis.
+I've loved carving short turns ever since I bought slalom skis four years ago.
 
-![Skiing](./assets/skiing.jpg)
+<!--![Skiing](./assets/skiing.jpg)-->
 
 
-
----
-
-## Let's Connect
-
-- 💼 LinkedIn: [your-linkedin-url]
-- ✉️ Email: [your-email]
-- 🌐 Website / Portfolio: [your-site]
 
 <!--
   Optional GitHub stats card (auto-generated, updates itself):
