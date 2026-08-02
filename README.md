@@ -93,7 +93,7 @@ A few things I do (or did) away from the keyboard:
 ### 🎤 Public Speaking
 Co-moderated a panel discussion on Highway-extension Referendum in Switzerland. We invited three Mobility Experts from ETH Zürich and had a enlighted neutral discussion on the topic. Check this ![LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7266761510994038784/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEIHSGwBShoZIq-LPKJ7YcSWSF0Nu3qc2lM)
 
-<img src="./assets/photo_introduction.jpg" width="30%"> <img src="./assets/photo_discussion.jpeg" width="30%"> <img src="./assets/photo_with_panelists.jpeg" width="30%">
+<img src="./assets/photo_introduction.jpg" width="30%"> <img src="./assets/photo_discussion.jpeg" width="35%"> <img src="./assets/photo_with_panelists.jpeg" width="35%">
 
 
 <!--
