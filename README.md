@@ -19,7 +19,7 @@ My work has been centered around causality, data science and machine learning.
 
 ## About Me
 
-- 🔭 I'm currently doing data science for 🐼.
+- 🔭 I'm currently doing data science for WWF Switzerland 🐼.
 - 🌱 I'm learning docker, threading and multiprocessing in Python.
 - 🎯 My focus areas are causality, Machine learning and data science.
 - 💬 Ask me about real-life applications of causality.
@@ -30,15 +30,6 @@ My work has been centered around causality, data science and machine learning.
 ---
 
 ## Tech & Tools
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  · SQL · R
-
-**Libraries**
-NumPy, Scikit-Learn, Pandas, Pytorch, Multiprocessing, Threading
-
-**Tools & Platforms**
-Git · Docker · CI/CD · Snowflake · dbt
 
 
 **Languages**
