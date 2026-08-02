@@ -57,11 +57,12 @@ My work has been centered around causality, data science and machine learning.
 
 ## Projects
 
-### Master's Thesis
-Using instrumental variables (fuel price) to correct the bias, and calculate the causal effect, when there is an unobserved confounder (holidays, conferences) between a cause (the airline tickets price) and an effect (airline tickets demand).
+### Master's Thesis on Instrumental Variables in Causal Inference
+Instrumental variables (fuel price) is a method to correct the bias, and calculate the causal effect, when there is unobserved confounders (holidays, conferences) between a cause (the airline tickets price) and an effect (airline tickets demand).
 
-This is a well known method, and well studied. I reviewed the litterature and focused on the problem where the causal effect is nonlinear. The distinction between the Two-Stage-Least-Square and the Control Function Methods become apparent. The first one allows slightly looser assumptions, whille the latter one is more powerful under some stronger independence assumptions. Finally, I developped an algorithm for that I called Deep Control Function which combine a deep neural network and the control function method. Finally, I did a benchmark analysis comparing the state of the art methods, while challengin them on different simulated datasets with others assumptions. I achieved the best grade 6/6.
+I reviewed the litterature and focused on the problem where the causal effect is nonlinear. The distinction between the Two-Stage-Least-Square and the Control Function Methods become apparent. The first one allows slightly looser assumptions, whille the latter one is more powerful under some stronger independence assumptions. Finally, I developped an algorithm for that I called Deep Control Function which combine a deep neural network and the control function method. Finally, I did a benchmark analysis comparing the state of the art methods, while challengin them on different simulated datasets with others assumptions. I achieved the best grade 6/6.
 
+For more details:
 🔗 **[View repository »](https://github.com/SamuelJoray/Master-Thesis)**
 <!--[Optional: 🌐 [Live demo »](https://your-demo-link.com)]-->
 
