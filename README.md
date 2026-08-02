@@ -66,7 +66,7 @@ This is a well known method, and well studied. I reviewed the litterature and fo
 <!--[Optional: 🌐 [Live demo »](https://your-demo-link.com)]-->
 
 <!-- A screenshot makes any project 10x more appealing: -->
-![Screenshot of Project Name](./assets/project-screenshot.png)
+![Screenshot of Project Name](./assets/image_airline_example.png)
 
 ---
 
