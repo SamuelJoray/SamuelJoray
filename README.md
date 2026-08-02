@@ -13,7 +13,7 @@
 
 # Hi, I'm Samuel 👋
 
-My work has been centered around causality, data science and machine learning.
+My work centers around causality, data science and machine learning. I increasingly develop myself to other areas to complete my profile such as Docker and CI/CD. 
 
 ---
 
@@ -88,23 +88,15 @@ work, a hardware build, etc. A photo is perfect here since there's no repo to li
 
 ## Beyond Code
 
-A few things I do away from the keyboard:
-
-### Windsurfing
-I learnt this summer how to windsurf -- still a beginner though.
-
-### 🎾 Tennis
-Playing since I am four and still get a lot of pleasure practicing it.
-
-![Playing tennis](./assets/tennis.jpg)
-
-### ⛷️ Skiing
-I love carving short turns since I bought slalom skis.
-
-![Skiing](./assets/skiing.jpg)
+A few things I do (or did) away from the keyboard:
 
 ### 🎤 Public Speaking
-Co-organized and co-moderated a panel discussion on Highway-extension Referendum in Switzerland. ![Further Details](https://www.linkedin.com/feed/update/urn:li:activity:7266761510994038784/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEIHSGwBShoZIq-LPKJ7YcSWSF0Nu3qc2lM)
+Co-moderated a panel discussion on Highway-extension Referendum in Switzerland. We invited three Mobility Experts from ETH Zürich and had a enlighted neutral discussion on the topic. Check this ![LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7266761510994038784/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEIHSGwBShoZIq-LPKJ7YcSWSF0Nu3qc2lM)
+
+![Screenshot of me_introducing_the panel_discussion](./assets/photo_introduction.png)
+![Screenshot panelists](./assets/photo_discussion.png)
+![Screenshot panelists](./assets/photo_with_panelists.png)
+
 
 <!--
   ADDING A VIDEO (e.g. of your presentation):
@@ -124,6 +116,21 @@ Co-organized and co-moderated a panel discussion on Highway-extension Referendum
 
 [Paste the GitHub-uploaded video link on its own line here, OR use the
 thumbnail-link from Option B above.]
+
+### Windsurfing
+I learnt this summer how to windsurf -- still a beginner though.
+
+### 🎾 Tennis
+Playing since I am four and still get a lot of pleasure practicing it.
+
+![Playing tennis](./assets/tennis.jpg)
+
+### ⛷️ Skiing
+I love carving short turns since I bought slalom skis.
+
+![Skiing](./assets/skiing.jpg)
+
+
 
 ---
 
