@@ -70,7 +70,10 @@ For more details:
 <!--[Optional: 🌐 [Live demo »](https://your-demo-link.com)]-->
 
 <!-- A screenshot makes any project 10x more appealing: -->
-![Screenshot of Project Name](./assets/image_airline_example.png)
+<div align="center">
+  <img src="./assets/image_airline_example.png" width="70%">
+</div>
+<!--![Screenshot of Project Name](./assets/image_airline_example.png)-->
 
 ---
 
