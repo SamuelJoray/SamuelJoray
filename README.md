@@ -61,7 +61,7 @@ My work centers on causality, data science, and machine learning. I'm increasing
 
 ### Master's Thesis on Instrumental Variables in Causal Inference
 
-Instrumental variables (fuel price) are a method to correct for unobserved confounders (holidays, conferences) and estimate the true causal effect between a cause (airline ticket prices) and an effect (airline ticket demand).
+Instrumental variables (fuel price) are a method to correct for unobserved confounders (holidays, conferences) and estimate the true causal effect between a cause (airline ticket prices) and an effect (airline ticket demand). See the image below, that shows the causal graph between the variables in paranthesis.
 
 I reviewed the literature and focused on the problem where the causal effect is nonlinear. Here, the distinction between the Two-Stage Least Squares and Control Function methods becomes apparent: the former allows slightly looser assumptions, while the latter is more powerful under some stronger independence assumptions, especially with a nonlinear causal effect. I then developed an algorithm I called Deep Control Function, which combines a deep neural network with the control function method. Finally, I ran a benchmark analysis comparing the state-of-the-art methods, challenging them on different simulated datasets with varying assumptions. I achieved the top grade, 6/6.
 
@@ -71,7 +71,7 @@ For more details:
 
 <!-- A screenshot makes any project 10x more appealing: -->
 <div align="center">
-  <img src="./assets/image_airline_example.png" width="70%">
+  <img src="./assets/image_airline_example.png" width="60%">
 </div>
 <!--![Screenshot of Project Name](./assets/image_airline_example.png)-->
 
