@@ -77,20 +77,6 @@ For more details:
 
 ---
 
-### [Project Name] — showcase only
-[Describe a project you can't or don't want to open-source — coursework, client
-work, a hardware build, etc. A photo is perfect here since there's no repo to link.]
-
-![Photo of the project](./assets/project-photo.jpg)
-
-**Stack:** [languages / tools used]
-**My role:** [what you personally built or contributed]
-
----
-
-<!-- Add more projects by copying either block above. Aim for 3–5 of your best. -->
-
----
 
 ## Beyond Code
 
