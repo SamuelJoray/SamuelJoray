@@ -11,7 +11,7 @@
   ./assets/tennis.jpg  (see notes near each section below).
 -->
 
-# Hi, I'm Samuel 👋
+# Hi, I'm Samuel
 
 I grew up in the canton of Neuchâtel in Switzerland, where I enjoyed playing tennis from a young age. I then moved to the German-speaking part of Switzerland, to Zürich, for my Bachelor's and Master's at ETH Zürich, where I discovered the world of mathematics and became proficient in German (and, of course, English)! After my Master's, I spent a year as a research assistant at SCAI Lab, then chose to move into industry, working for an NGO (WWF Switzerland) as a Marketing Data Analyst for a year (internship, fixed-term contract). I have always felt close to nature and wanted to take this opportunity to discover what people are doing to help the planet. I feel lucky to have had this once-in-a-lifetime experience.
 
@@ -58,6 +58,16 @@ My work centers on causality, data science, and machine learning. I'm increasing
 ---
 
 ## Projects
+
+### Donation's Likelihood Prediction at WWF Switzerland
+
+I developed a Machine Learning Model to predict Donation Likelihood of Donor's on three fundraising mailing per year resulting in a saving of 95'000 CHF per year.
+
+Indeed, current donor's in NGOs like WWF donates regularly, mostly on paper mailings. Such measures are highly profitable, but costs also a lot, about 70 cents per sending. Moreover, only half of the donor accounts for almost all donations for these mailings. Using machine learning and a few years of data a group of people that will not donate gets easily identifiable. We identified a group of 65'000 people that were receiving this mailing but almost never donate (only a response rate of 0.2%) and were thus not profitable. Removing these group result in a saving of 95'000 CHF per year of potential income minus costs.
+
+<div align="center">
+  <img src="./assets/image_volumenoptimierung.png" width="60%">
+</div>
 
 ### Master's Thesis on Instrumental Variables in Causal Inference
 
