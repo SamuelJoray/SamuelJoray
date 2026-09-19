@@ -66,7 +66,7 @@ I developed a Machine Learning Model to predict Donation Likelihood of Donor's o
 Indeed, current donor's in NGOs like WWF donates regularly, mostly on paper mailings. Such measures are highly profitable, but costs also a lot, about 70 cents per sending. Moreover, only half of the donor accounts for almost all donations for these mailings. Using machine learning and a few years of data a group of people that will not donate gets easily identifiable. We identified a group of 65'000 people that were receiving this mailing but almost never donate (only a response rate of 0.2%) and were thus not profitable. Removing these group result in a saving of 95'000 CHF per year of potential income minus costs.
 
 <div align="center">
-  <img src="./assets/image_volumenoptimierung.png" width="60%">
+  <img src="./assets/image_volumenoptimierung.pdf" width="60%">
 </div>
 
 ### Master's Thesis on Instrumental Variables in Causal Inference
