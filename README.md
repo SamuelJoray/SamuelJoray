@@ -59,6 +59,19 @@ My work centers on causality, data science, and machine learning. I'm increasing
 
 ## Projects
 
+### Migros magazine game LLM solver 
+
+Solve each game of the Migros Magazine and fills out the form so that I can just click one button to participate instead of solving the game and filling out the whole form. To solve the quiz it calls the anthropic API to ask itself what the answer is. The other games can be solved directly.
+
+For more details:
+🔗 **[View repository »](https://github.com/SamuelJoray/migros-contest-solver)**
+
+<div align="center">
+  <img src="./assets/image_quiz.png" width="45%">
+  &nbsp;
+  <img src="./assets/image_form.png" width="45%">
+</div>
+
 ### Donation's Likelihood Prediction at WWF Switzerland
 
 I developed a Machine Learning Model to predict Donation Likelihood of Donor's on three fundraising mailing per year resulting in a saving of 95'000 CHF per year.
