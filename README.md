@@ -59,12 +59,14 @@ My work centers on causality, data science, and machine learning. I'm increasing
 
 ## Projects
 
+
+<!--
 ### Migros magazine game LLM solver 
 
 Solve each game of the Migros Magazine and fills out the form so that I can just click one button to participate instead of solving the game and filling out the whole form. To solve the quiz it calls the anthropic API to ask itself what the answer is. The other games can be solved directly.
 
 For more details:
-🔗 **[View repository »](https://github.com/SamuelJoray/migros-contest-solver)**
+🔗 **[View repository »](https://github.com/SamuelJoray/migros-contest-solver)**-->
 
 <!-- <div align="center">
   <img src="./assets/image_quiz.png" width="45%">
@@ -72,6 +74,13 @@ For more details:
   <img src="./assets/image_form.png" width="45%">
 </div>
 -->
+<!--
+### Carpooling App
+
+An app that match drivers and rider to share costs and reduce carbon footprint as well as traffic jam! With innovative insurance pricing, sharing fuel and car use costs workers can save up to 1000 CHF per year on their daily commute to work. 
+-->
+
+
 ### Donation's Likelihood Prediction at WWF Switzerland
 
 I developed a Machine Learning Model to predict Donation Likelihood of Donor's on three fundraising mailing per year resulting in a saving of 95'000 CHF per year.
@@ -81,6 +90,22 @@ Indeed, current donor's in NGOs like WWF donates regularly, mostly on paper mail
 <div align="center">
   <img src="./assets/image_volumenoptimierung.png" width="60%">
 </div>
+
+
+### Research on Causal Discovery and Missing Values Imputation for Multivariate Time Series
+
+Missing values are common in multivariate time series, due to sensor faults or irregular sampling. In ICU datasets, observations are highly irregular, with missing rates reaching up to 80%. Moreover, with current deep learning methods, it is hard to understand the reasoning behind the imputation (replacing missing values with estimates).
+
+To address this, we developed an algorithm that extends MissForest, an imputer that iteratively trains random forests on the observed values and uses them to impute the missing ones. Our extension adds a causal discovery step: the algorithm learns a full-time causal graph and imputes each variable according to this graph, which makes the method more explainable.
+
+Results show that our method matches state-of-the-art methods (SAITS, BRITS, MissForest) while being more explainable, but it scales less well than deep learning methods due to the causal discovery part and the iterations.
+
+More details are available on the poster I presented at EurIPS 2025: [Download (PDF)](./assets/EuroIPS_2025_poster.pdf)
+
+<div align="center">
+  <img src="./assets/EuroIPS_2025_poster.png" width="60%">
+</div>
+
 
 ### Master's Thesis on Instrumental Variables in Causal Inference
 
