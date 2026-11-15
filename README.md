@@ -100,10 +100,10 @@ To address this, we developed an algorithm that extends MissForest, an imputer t
 
 Results show that our method matches state-of-the-art methods (SAITS, BRITS, MissForest) while being more explainable, but it scales less well than deep learning methods due to the causal discovery part and the iterations.
 
-More details are available on the poster I presented at EurIPS 2025: [Download (PDF)](./assets/EuroIPS_2025_poster.pdf)
+More details are available on the poster I presented at EurIPS 2025: [Download (PDF)](./assets/poster_eurips_2025.pdf)
 
 <div align="center">
-  <img src="./assets/EuroIPS_2025_poster.png" width="60%">
+  <img src="./assets/poster_eurips_2025.png" width="60%">
 </div>
 
 
