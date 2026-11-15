@@ -83,9 +83,13 @@ An app that match drivers and rider to share costs and reduce carbon footprint a
 
 ### Donation's Likelihood Prediction at WWF Switzerland
 
+
+
 I developed a Machine Learning Model to predict Donation Likelihood of Donor's on three fundraising mailing per year resulting in a saving of 95'000 CHF per year.
 
 Indeed, current donor's in NGOs like WWF donates regularly, mostly on paper mailings. Such measures are highly profitable, but costs also a lot, about 70 cents per sending. Moreover, only half of the donor accounts for almost all donations for these mailings. Using machine learning and a few years of data a group of people that will not donate gets easily identifiable. We identified a group of 65'000 people that were receiving this mailing but almost never donate (only a response rate of 0.2%) and were thus not profitable. Removing these group result in a saving of 95'000 CHF per year of potential income minus costs.
+
+Tech used: Python / dbt / Snowflake / Catboost / Scikit-learn
 
 <div align="center">
   <img src="./assets/image_volumenoptimierung.png" width="60%">
@@ -100,6 +104,8 @@ To address this, we developed an algorithm that extends MissForest, an imputer t
 
 Results show that our method matches state-of-the-art methods (SAITS, BRITS, MissForest) while being more explainable, but it scales less well than deep learning methods due to the causal discovery part and the iterations.
 
+Tech used: Python / Lightgbm / Pytorch / Scikit-Learn / Numpy / Pandas
+
 More details are available on the poster I presented at EurIPS 2025: [Download (PDF)](./assets/poster_eurips_2025.pdf)
 
 <div align="center">
@@ -112,6 +118,8 @@ More details are available on the poster I presented at EurIPS 2025: [Download (
 Instrumental variables (fuel price) are a method to correct for unobserved confounders (holidays, conferences) and estimate the true causal effect between a cause (airline ticket prices) and an effect (airline ticket demand). See the image below, that shows the causal graph between the variables in paranthesis.
 
 I reviewed the literature and focused on the problem where the causal effect is nonlinear. Here, the distinction between the Two-Stage Least Squares and Control Function methods becomes apparent: the former allows slightly looser assumptions, while the latter is more powerful under some stronger independence assumptions, especially with a nonlinear causal effect. I then developed an algorithm I called Deep Control Function, which combines a deep neural network with the control function method. Finally, I ran a benchmark analysis comparing the state-of-the-art methods, challenging them on different simulated datasets with varying assumptions. I achieved the top grade, 6/6.
+
+Tech used: Python / R / Tensorflow / Scipy
 
 For more details:
 🔗 **[View repository »](https://github.com/SamuelJoray/Master-Thesis)**
